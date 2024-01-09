@@ -8,7 +8,8 @@ body {
   }
   .head{
     background-color: aqua;
-    color:rgb(246, 97, 4)
+    color:rgb(246, 97, 4);
+    padding: 10px;
   }
   #second{ font-size: 16pt;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -16,7 +17,7 @@ body {
   }
   #third{ 
     font-size: 16pt;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: fantasy;
     border: 12px solid rgba(0, 81, 255, 0.486)
   }
 }
