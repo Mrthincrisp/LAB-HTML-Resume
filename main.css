@@ -1,3 +1,28 @@
 body {
   background-color: aquamarine;
+
+  #first{
+    font-size: 16pt;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px dotted rgba(67, 241, 81, 0.815) ;
+  }
+  .head{
+    background-color: aqua;
+    color:rgb(246, 97, 4)
+  }
+  #second{ font-size: 16pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 7px dashed pink
+  }
+  #third{ 
+    font-size: 16pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 12px solid rgba(0, 81, 255, 0.486)
+  }
 }
+
+/*
+ Each article should use a different font family.
+ All article headings should be the same font color (don't be boring).
+ Site should have a background color or background image. Images google filtered for "Royalty Free"
+ Each article should have a different border(weight,style,color)./*
